@@ -1,0 +1,6 @@
+{
+  "name": "ZED.com | AR & Unity Solutions",
+  "description": "حلول الواقع المعزز وتطوير Unity الاحترافية - المختبر البرمجي المتقدم للتجارب التفاعلية والألعاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
